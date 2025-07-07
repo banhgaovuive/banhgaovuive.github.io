@@ -22,6 +22,20 @@ body.dark-mode .well,
 body.dark-mode .highlight {
   background-color: #1a1a1a;
 }
+body.dark-mode .navbar,
+body.dark-mode nav {
+  color: #ffdfdf; /* Màu chữ navbar */
+}
+
+body.dark-mode .navbar a,
+body.dark-mode nav a {
+  color: #ffc7da; /* Màu chữ các link trong navbar */
+}
+
+body.dark-mode .navbar a:hover,
+body.dark-mode nav a:hover {
+  color: #ffffff; /* Khi rê chuột vào */
+}
 
 /* Nút chuyển dark mode */
 .toggle-dark-btn {
