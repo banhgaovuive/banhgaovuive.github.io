@@ -9,6 +9,7 @@ permalink: /categories/
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
+  margin-bottom: 3rem;
 }
 
 .category-column {
@@ -25,6 +26,7 @@ permalink: /categories/
 }
 </style>
 
+<!-- Hiển thị danh sách category dạng lưới -->
 <div class="category-list">
   {% assign categories = site.categories | sort %}
   {% assign numPerColumn = categories | size | divided_by: 3 | plus: 1 %}
@@ -37,9 +39,10 @@ permalink: /categories/
       {% for category in categories %}
         {% if cat_index < numPerColumn %}
           <li>
-            <a href="{{ site.baseurl }}/categories/{{ category[0] | slugify }}/">
+            <a href="#{{ category[0] | slugify }}">
               <strong>{{ category[0] }}</strong>
-            </a> <span style="float:right">{{ category[1].size }}</span>
+            </a>
+            <span style="float:right">{{ category[1].size }}</span>
           </li>
           {% assign cat_index = cat_index | plus: 1 %}
         {% endif %}
@@ -50,3 +53,19 @@ permalink: /categories/
     {% assign cat_index = 0 %}
   {% endfor %}
 </div>
+
+---
+
+<!-- Hiển thị bài viết theo từng category -->
+{% assign sorted_categories = site.categories | sort %}
+{% for category in sorted_categories %}
+  <h2 id="{{ category[0] | slugify }}">{{ category[0] | capitalize }}</h2>
+  <ul>
+    {% for post in category[1] %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small>({{ post.date | date: "%B %d, %Y" }})</small>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
