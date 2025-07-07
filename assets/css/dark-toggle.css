@@ -1,0 +1,39 @@
+/* Nền tối */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+/* Link khi dark mode */
+body.dark-mode a {
+  color: #90caf9;
+}
+
+/* Nền header/footer */
+body.dark-mode header,
+body.dark-mode nav,
+body.dark-mode footer {
+  background-color: #1f1f1f;
+}
+
+/* Bài viết */
+body.dark-mode .post-content,
+body.dark-mode .well,
+body.dark-mode .highlight {
+  background-color: #1a1a1a;
+}
+
+/* Nút chuyển dark mode */
+.toggle-dark-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 15px;
+  background: #444;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  z-index: 9999;
+  box-shadow: 0 0 5px #000;
+}
