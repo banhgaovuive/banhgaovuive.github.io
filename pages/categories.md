@@ -50,10 +50,3 @@ permalink: /categories/
     {% assign cat_index = 0 %}
   {% endfor %}
 </div>
-
-{% assign category = 'programming' %}
-<ul>
-  {% for post in site.categories[category] %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%d/%m/%Y" }}</li>
-  {% endfor %}
-</ul>
