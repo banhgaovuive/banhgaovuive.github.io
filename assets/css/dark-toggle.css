@@ -4,44 +4,57 @@ body.dark-mode {
   color: #e0e0e0;
 }
 
-/* Link trong dark mode */
+/* Link bình thường */
 body.dark-mode a {
-  color: #64b5f6; /* Xanh lam nhẹ */
+  color: #64b5f6;
 }
 
-/* Nền header / footer */
+/* Link hover */
+body.dark-mode a:hover {
+  color: #90caf9;
+}
+
+/* Nền header / navbar / footer */
 body.dark-mode header,
 body.dark-mode nav,
 body.dark-mode footer {
   background-color: #1c1c1c;
 }
 
-/* Bài viết và khối code */
+/* Nội dung bài viết, code block */
 body.dark-mode .post-content,
 body.dark-mode .well,
 body.dark-mode .highlight {
   background-color: #1a1a1a;
 }
 
-/* Màu chữ thanh navbar */
+/* Navbar chữ bình thường */
 body.dark-mode .navbar,
 body.dark-mode nav {
   color: #e0e0e0;
 }
 
-/* Link trong navbar */
+/* Navbar links */
 body.dark-mode .navbar a,
 body.dark-mode nav a {
-  color: #b0bec5; /* Xám xanh nhẹ */
+  color: #cfd8dc;
 }
 
-/* Hover navbar */
+/* Hover trên navbar */
 body.dark-mode .navbar a:hover,
 body.dark-mode nav a:hover {
-  color: #ffffff;
+  color: #64b5f6;
 }
 
-/* Nút bật dark mode */
+/* Link đang active (đang chọn) */
+body.dark-mode .navbar .active a,
+body.dark-mode nav .active a {
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* Nút bật/tắt dark mode */
 .toggle-dark-btn {
   position: fixed;
   bottom: 20px;
