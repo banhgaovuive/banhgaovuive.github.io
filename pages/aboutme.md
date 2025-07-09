@@ -10,7 +10,7 @@ My name is Nguyễn Thu Giang. You can call me Bánh Gạo. I have the following
 
 - Getting emotionally attached to math problems (and the people who assign them)
 
-What else do you need?
+What else do you need bro?
 
 ### My story
 
