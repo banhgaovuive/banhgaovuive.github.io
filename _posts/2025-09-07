@@ -1,13 +1,92 @@
 ---
 layout: post
-title: Những con người đáng mến tại kỳ thi VM2C 2025
+title: Ký sự kỳ thi VM2C 2025
 subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Math Modeling]
 comments: true
 mathjax: true
 ---
+
+Có những ngày, ta bước vào một kỳ thi không chỉ để thi, mà để **gặp**.  
+Gặp những con người sống bằng lý tưởng, hỏi bằng sự sắc sảo và góp ý bằng cả một tấm lòng.  
+Kỳ thi mô hình hóa lần này, với tôi, là một hành trình như thế.
+
+---
+
+## 1. Khi rủi ro… đứng hình
+
+Vừa bước vào vòng phỏng vấn, thầy **Quân** – với ánh mắt điềm đạm nhưng câu hỏi sắc như dao cạo – hỏi tôi:
+
+> "Nếu số lượng cổ phiếu tăng, thì rủi ro có tăng không?"
+
+Tôi – một đứa từng tự tin mình hiểu kha khá về phương sai và ma trận hiệp phương sai – lại bối rối bật ra một chữ **"Có..."**, rồi... đứng hình.  
+Một giây, hai giây, năm giây – tôi nghe thấy tiếng kim rơi trong đầu mình.  
+Câu hỏi ấy không đơn giản như một phép cộng trừ.  
+Nó là một cú tát yêu thương vào sự chủ quan của tôi.
+
+---
+
+## 2. Khi thầy Long... nhắc thiếu
+
+Thầy **Long** – người luôn điềm tĩnh, chỉnh chu, tinh tế – sau khi nghe tôi trình bày mô hình, đã nhẹ nhàng:
+
+> "Trình bày thiếu rồi đấy em."
+
+Tôi như muốn độn thổ vì đúng là có một đoạn tôi skip không nói.  
+Nhưng thầy vẫn cười, vẫn rủ tôi sau buổi thi chụp một kiểu ảnh **“đưa chân”** như trend TikTok.  
+Một thầy giáo mà vẫn bắt trend, lại còn có khiếu hài hước thế này thì ai mà không mê?
+
+---
+
+## 3. Viện Toán – nơi các thầy cô là siêu anh hùng
+
+Tôi đã luôn nghĩ Viện Toán học sẽ khô khan, toàn bảng đen và định lý.  
+Nhưng không – nơi đây là một thế giới đầy màu sắc:
+
+- Các thầy cô siêu ngầu, có thầy kể chuyện như kể truyện cười,  
+  có cô hỏi xoáy như Sherlock Holmes.
+- Đồ ăn ở Viện thì ngon đến mức tôi nghi ngờ đây là chiến thuật  
+  **“bẫy” để giữ chân sinh viên không rời đi.**
+
+---
+
+## 4. Khi thầy Mạnh hỏi về code... và tôi sợ
+
+Thầy **Mạnh** – người có vẻ ngoài nghiêm nghị – hỏi tôi về phần code:
+
+> “Câu này, theo tôi biết, chỉ có hai loại người trả lời: người *ngu* và người *không ngu*.”
+
+Tôi nuốt nước bọt.  
+Dù biết thầy nói đùa (chắc là vậy...), tôi vẫn run.  
+Nhưng cũng nhờ đó mà tôi nhìn lại đoạn code mình viết – một lần thật kỹ.
+
+---
+
+## 5. Thầy Lập – người soi lỗi bằng sự dễ thương
+
+Cuối cùng là **thầy Lập** – người không chỉ chỉ ra lỗi sai mà còn góp ý bằng một cách cực kỳ *cute*.  
+Câu chữ của thầy mềm như marshmallow nhưng lại sắc như lưỡi lam – đúng kiểu  
+**“gãi đúng chỗ ngứa”**, khiến mình không buồn mà còn cảm ơn.
+
+---
+
+## Gặp – để thấy mình nhỏ bé và muốn lớn hơn
+
+Mỗi người thầy cô trong kỳ thi này như một tấm gương –  
+có người phản chiếu cái mình thiếu,  
+có người phản ánh cái mình giỏi,  
+và có người đơn giản là truyền cho tôi cảm hứng.
+
+Tôi vẫn chưa biết liệu mình có đạt giải hay không.  
+Nhưng tôi biết một điều: **tôi đã lớn lên** –  
+qua những câu hỏi, những cái nhìn, những tiếng cười và cả những lần... đứng hình.
+
+---
+
+**Cảm ơn mô hình hóa.  
+Cảm ơn những người thầy – người cô – đã biến một kỳ thi thành một kỷ niệm đáng viết blog.**
 
 {: .box-success}
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
@@ -18,6 +97,7 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
+Kỳ thi mô hình hóa toán học [VM2C](https://vm2c.viasm.edu.vn/) được tổ chức tại VIASM đã mở ra nhiều co hội, bài học
 Here's a table:
 
 | Number | Next number | Previous number |
