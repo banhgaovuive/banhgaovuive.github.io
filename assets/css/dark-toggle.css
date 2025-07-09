@@ -1,49 +1,53 @@
-/* Nền tối */
+/* Nền tối dịu */
 body.dark-mode {
   background-color: #121212;
   color: #e0e0e0;
 }
 
-/* Link khi dark mode */
+/* Link trong dark mode */
 body.dark-mode a {
-  color: #90caf9;
+  color: #64b5f6; /* Xanh lam nhẹ */
 }
 
-/* Nền header/footer */
+/* Nền header / footer */
 body.dark-mode header,
 body.dark-mode nav,
 body.dark-mode footer {
-  background-color: #1f1f1f;
+  background-color: #1c1c1c;
 }
 
-/* Bài viết */
+/* Bài viết và khối code */
 body.dark-mode .post-content,
 body.dark-mode .well,
 body.dark-mode .highlight {
   background-color: #1a1a1a;
 }
+
+/* Màu chữ thanh navbar */
 body.dark-mode .navbar,
 body.dark-mode nav {
-  color: #ffdfdf; /* Màu chữ navbar */
+  color: #e0e0e0;
 }
 
+/* Link trong navbar */
 body.dark-mode .navbar a,
 body.dark-mode nav a {
-  color: #ffc7da; /* Màu chữ các link trong navbar */
+  color: #b0bec5; /* Xám xanh nhẹ */
 }
 
+/* Hover navbar */
 body.dark-mode .navbar a:hover,
 body.dark-mode nav a:hover {
-  color: #ffffff; /* Khi rê chuột vào */
+  color: #ffffff;
 }
 
-/* Nút chuyển dark mode */
+/* Nút bật dark mode */
 .toggle-dark-btn {
   position: fixed;
   bottom: 20px;
   right: 20px;
   padding: 10px 15px;
-  background: #444;
+  background: #333;
   color: white;
   border: none;
   border-radius: 10px;
