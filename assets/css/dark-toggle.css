@@ -1,70 +1,70 @@
 /* Nền tối dịu */
 body.dark-mode {
-  background-color: #121212;
-  color: #e0e0e0;
+  background-color: #121212; /* Màu nền rất tối */
+  color: #e0e0e0; /* Màu chữ xám nhạt */
 }
 
 /* Link bình thường */
 body.dark-mode a {
-  color: #64b5f6;
+  color: #64b5f6; /* Màu xanh trung bình cho link */
 }
 
 /* Link hover */
 body.dark-mode a:hover {
-  color: #90caf9;
+  color: #90caf9; /* Màu xanh nhạt hơn khi di chuột qua link */
 }
 
 /* Nền header / navbar / footer */
 body.dark-mode header,
 body.dark-mode nav,
 body.dark-mode footer {
-  background-color: #1c1c1c;
+  background-color: #1c1c1c; /* Màu nền tối hơn một chút cho các phần này */
 }
 
 /* Nội dung bài viết, code block */
 body.dark-mode .post-content,
 body.dark-mode .well,
 body.dark-mode .highlight {
-  background-color: #1a1a1a;
+  background-color: #1a1a1a; /* Màu nền tối cho khu vực nội dung và code */
 }
 
 /* Navbar chữ bình thường */
 body.dark-mode .navbar,
 body.dark-mode nav {
-  color: #e0e0e0;
+  color: #e0e0e0; /* Màu chữ xám nhạt cho navbar */
 }
 
 /* Navbar links */
 body.dark-mode .navbar a,
 body.dark-mode nav a {
-  color: #cfd8dc;
+  color: #cfd8dc; /* Màu xám xanh cho các link trong navbar */
 }
 
 /* Hover trên navbar */
 body.dark-mode .navbar a:hover,
 body.dark-mode nav a:hover {
-  color: #64b5f6;
+  color: #64b5f6; /* Màu xanh tiêu chuẩn khi di chuột qua link navbar */
 }
 
 /* Link đang active (đang chọn) */
 body.dark-mode .navbar .active a,
 body.dark-mode nav .active a {
-  color: #ffffff;
-  font-weight: bold;
-  text-decoration: underline;
+  color: #ffffff; /* Màu trắng tinh cho link navbar đang hoạt động */
+  font-weight: bold; /* Chữ in đậm */
+  text-decoration: underline; /* Gạch chân */
 }
 
 /* Nút bật/tắt dark mode */
 .toggle-dark-btn {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  padding: 10px 15px;
-  background: #333;
-  color: white;
-  border: none;
-  border-radius: 10px;
-  cursor: pointer;
-  z-index: 9999;
-  box-shadow: 0 0 5px #000;
+  position: fixed; /* Giữ nút cố định trên màn hình */
+  bottom: 20px; /* Cách đáy 20px */
+  right: 20px; /* Cách lề phải 20px */
+  padding: 10px 15px; /* Khoảng đệm bên trong nút */
+  background: #333; /* Nền nút màu xám đậm */
+  color: white; /* Chữ nút màu trắng */
+  border: none; /* Không có viền */
+  border-radius: 10px; /* Bo tròn góc */
+  cursor: pointer; /* Biểu tượng con trỏ khi di chuột qua */
+  z-index: 9999; /* Đảm bảo nút nằm trên cùng */
+  box-shadow: 0 0 5px #000; /* Đổ bóng nhẹ */
 }
