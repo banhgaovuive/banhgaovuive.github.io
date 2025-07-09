@@ -23,14 +23,10 @@ navbar-links:
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-- title: "Posts"
-  url: "/posts/"
-- title: "Categories"
-  url: "/categories/"
-- title: "Tags"
-  url: "/tags/"
-- title: "About Me"
-  url: "/aboutme/"
+  Posts: "/posts/"
+  Categories: "/categories/"
+  Tags: "/tags/"
+  About Me: "/aboutme/"
 #  Giang Thu's home: "https://deanattali.com"
 
 ################
