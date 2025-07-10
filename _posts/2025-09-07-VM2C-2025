@@ -1,53 +1,53 @@
 ---
 layout: post
-title: Những người thầy tôi gặp tại kỳ thi VM2C - 2025
-subtitle: There's lots to learn!
-tags: [Math Modeling]
-categories:[kỷ niệm]
----
+title: "Những người thầy tôi gặp tại kỳ thi VM2C - 2025"
+subtitle: "There's lots to learn!"
 excerpt: "Một hành trình đầy tiếng cười và bài học từ kỳ thi mô hình hóa. Khi mỗi thầy cô đều là một dấu ấn khó quên."
+tags: [Math Modeling]
+categories: [kỷ niệm]
+---
 
-Kỳ thi mô hình hóa toán học [VM2C](https://vm2c.viasm.edu.vn/) được tổ chức tại VIASM đã mở ra nhiều co hội, bài học
-Có những ngày, ta bước vào một kỳ thi không chỉ để thi, mà để **gặp**.  
+Kỳ thi mô hình hóa toán học [VM2C](https://vm2c.viasm.edu.vn/) được tổ chức tại VIASM đã mở ra nhiều cơ hội, bài học.  
+Có những ngày, ta bước vào một kỳ thi không chỉ để thi, mà để gặp.  
 Gặp những con người sống bằng lý tưởng, hỏi bằng sự sắc sảo và góp ý bằng cả một tấm lòng.  
 Kỳ thi mô hình hóa lần này, với tôi, là một hành trình như thế.
 
-## 1. Khi rủi ro… đứng hình
+### 1. Khi rủi ro… đứng hình
 
-Vừa bước vào vòng phỏng vấn, thầy **Quân** – với ánh mắt điềm đạm nhưng câu hỏi sắc như dao cạo – hỏi tôi:
+Vừa bước vào vòng phỏng vấn, thầy Quân – với ánh mắt điềm đạm nhưng câu hỏi sắc như dao cạo – hỏi tôi:
 
 > "Nếu số lượng cổ phiếu tăng, thì rủi ro có tăng không?"
 
-Tôi – một đứa từng tự tin mình hiểu kha khá về phương sai và ma trận hiệp phương sai – lại bối rối bật ra một chữ **"Không ạ..."**, rồi... đứng hình. Thầy lại nói: "Ừm, rủi ro không tăng đúng không, thế thì cái mô hình... sao nó không dùng hết số tiền 25.4 tỷ"  
+Tôi – một đứa từng tự tin mình hiểu kha khá về phương sai và ma trận hiệp phương sai – lại bối rối bật ra một chữ "Không ạ..." rồi... đứng hình.  
+Thầy lại nói: "Ừm, rủi ro không tăng đúng không, thế thì cái mô hình... sao nó không dùng hết số tiền 25.4 tỷ"  
 Một giây, hai giây, năm giây – tôi nghe thấy tiếng kim rơi trong đầu mình.  
 Câu hỏi ấy không đơn giản như một phép cộng trừ.  
-Nó là một cú tát yêu thương vào sự chủ quan của tôi.
-[Ảnh chụp cùng thầy Hoàng Anh Quân]({{ '/assets/img/VM2C 2025/anh_thay_Quan.jpg' | relative_url }})
+Nó là một cú tát yêu thương vào sự chủ quan của tôi.  
+![Ảnh chụp cùng thầy Hoàng Anh Quân]({{ '/assets/img/VM2C 2025/anh_thay_Quan.jpg' | relative_url }})
 
+### 2. Khi thầy Long... nhắc thiếu
 
-## 2. Khi thầy Long... nhắc thiếu
-
-Thầy **Long** – người luôn điềm tĩnh, chỉnh chu, tinh tế – sau khi nghe tôi trình bày mô hình, đã nhẹ nhàng:
+Thầy Long – người luôn điềm tĩnh, chỉnh chu, tinh tế – sau khi nghe tôi trình bày mô hình, đã nhẹ nhàng:
 
 > "Trình bày thiếu rồi đấy em."
 
 Tôi như muốn độn thổ vì đúng là có một đoạn tôi skip không nói.  
-Nhưng thầy vẫn cười, vẫn rủ tôi sau buổi thi chụp một kiểu ảnh **“đưa chân”** như trend TikTok.  
+Nhưng thầy vẫn cười, vẫn rủ tôi sau buổi thi chụp một kiểu ảnh “đưa chân” như trend TikTok.  
 Một thầy giáo mà vẫn bắt trend, lại còn có khiếu hài hước thế này thì ai mà không mê?
 
-## 3. Viện Toán – nơi các thầy cô là siêu anh hùng
+### 3. Viện Toán – nơi các thầy cô là siêu anh hùng
 
 Tôi đã luôn nghĩ Viện Toán học sẽ khô khan, toàn bảng đen và định lý.  
 Nhưng không – nơi đây là một thế giới đầy màu sắc:
 
 - Các thầy cô siêu ngầu, có thầy kể chuyện như kể truyện cười,  
-  có cô hỏi xoáy như Sherlock Holmes.
+  có cô hỏi xoáy như Sherlock Holmes.  
 - Đồ ăn ở Viện thì ngon đến mức tôi nghi ngờ đây là chiến thuật  
-  **“bẫy” để giữ chân sinh viên không rời đi.**
+  “bẫy” để giữ chân sinh viên không rời đi.
 
-## 4. Khi thầy Mạnh hỏi về code... và tôi sợ
+### 4. Khi thầy Mạnh hỏi về code... và tôi sợ
 
-Thầy **Mạnh** – người có vẻ ngoài nghiêm nghị – hỏi tôi về phần code:
+Thầy Mạnh – người có vẻ ngoài nghiêm nghị – hỏi tôi về phần code:
 
 > “Câu này, theo tôi biết, chỉ có hai loại người trả lời: người *ngu* và người *không ngu*.”
 
@@ -55,13 +55,15 @@ Tôi nuốt nước bọt.
 Dù biết thầy nói đùa (chắc là vậy...), tôi vẫn run.  
 Nhưng cũng nhờ đó mà tôi nhìn lại đoạn code mình viết – một lần thật kỹ.
 
-## 5. Thầy Lập – người soi lỗi bằng sự dễ thương
+### 5. Thầy Lập – người soi lỗi bằng sự dễ thương
 
-Cuối cùng là **thầy Lập** – người không chỉ chỉ ra lỗi sai mà còn góp ý bằng một cách cực kỳ *cute*.  
+Cuối cùng là thầy Lập – người không chỉ chỉ ra lỗi sai mà còn góp ý bằng một cách cực kỳ cute.  
 Câu chữ của thầy mềm như marshmallow nhưng lại sắc như lưỡi lam – đúng kiểu  
-**“gãi đúng chỗ ngứa”**, khiến mình không buồn mà còn cảm ơn.
+“gãi đúng chỗ ngứa”, khiến mình không buồn mà còn cảm ơn.
 
-## Gặp – để thấy mình nhỏ bé và muốn lớn hơn
+---
+
+### Gặp – để thấy mình nhỏ bé và muốn lớn hơn
 
 Mỗi người thầy cô trong kỳ thi này như một tấm gương –  
 có người phản chiếu cái mình thiếu,  
@@ -69,10 +71,8 @@ có người phản ánh cái mình giỏi,
 và có người đơn giản là truyền cho tôi cảm hứng.
 
 Tôi vẫn chưa biết liệu mình có đạt giải hay không.  
-Nhưng tôi biết một điều: **tôi đã lớn lên** –  
+Nhưng tôi biết một điều: tôi đã lớn lên –  
 qua những câu hỏi, những cái nhìn, những tiếng cười và cả những lần... đứng hình.
 
-**Cảm ơn mô hình hóa.  
-Cảm ơn những người thầy – người cô – đã biến một kỳ thi thành một kỷ niệm đáng viết blog.**
-
-
+Cảm ơn mô hình hóa.  
+Cảm ơn những người thầy – người cô – đã biến một kỳ thi thành một kỷ niệm đáng viết blog.
