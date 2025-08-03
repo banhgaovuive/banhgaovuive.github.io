@@ -48,6 +48,6 @@ Mình không vô tâm. Mình không thờ ơ. Đó là thứ thế giới này �
 Mọi người có quan tâm hay không cũng không ảnh hưởng đến giá trị hành động của mình.
 Mình không out nhóm để được tung hô. Mình rời đi vì mình cần bước tiếp – và mình đã làm điều đó một cách đẹp nhất có thể.
 
-> “People will forget what you said, people will forget what you did,  
-> but people will never forget how you made them feel.”  
-> — *Maya Angelou*
+“People will forget what you said, people will forget what you did,  
+but people will never forget how you made them feel.”  
+— *Maya Angelou*
