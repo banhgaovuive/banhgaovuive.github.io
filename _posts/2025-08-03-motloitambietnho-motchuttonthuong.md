@@ -15,9 +15,9 @@ Chỉ vài dòng – cảm ơn, chúc mọi người học tốt, và xin phép 
 Viết xong, reread mấy lần. Cẩn thận từng từ. Không sến, không dài dòng, không “đòi hỏi”, nghe thùy mị, nhẹ nhàng nết na. Chỉ mong mọi thứ tử tế và đúng mực.
 
 Nhắn xong cái, mình out nhóm ngay.  
-Vì sợ ở lại mình sẽ tổn à chẳng ai nói gì.
+Vì sợ ở lại mình sẽ để ý xem mọi người có thả tim hay haha gì không (vì mình gửi cả meme nữa) hay mọi người có rep gì không hay lặng lẽ seen rồi không gì nữa.
 
-Người ta vẫn nhắn tiếp như không có gì xảy ra. Vẫn hỏi bài, vẫn gửi file, vẫn kiểu: “Ờ, bạn từng ở đây à?”
+Không biết diễn biến trong 2 nhóm mình nhắn như nào nhưng cái nhóm Mất não :< cái nhóm chỉ có mấy thằng cùng lớp thôi á. Chúng nó vẫn nhắn tiếp như không có gì xảy ra. Vẫn hỏi bài, vẫn gửi file, vẫn kiểu chả là gì để quan tâm.
 
 Nó không quá đau, nhưng có chút buốt lặng.  
 Không phải vì mình muốn người ta níu.  
