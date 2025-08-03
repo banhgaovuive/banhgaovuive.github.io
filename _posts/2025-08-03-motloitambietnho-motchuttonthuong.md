@@ -4,7 +4,7 @@ title: Một lời tạm biệt nhỏ và một chút tổn thương
 subtitle: Không phải vì mình yêu thích gì môn Toán đâu :v mà vì mình nhạy cảm
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+categories: [Math, Whispers]
 comments: true
 mathjax: true
 ---
