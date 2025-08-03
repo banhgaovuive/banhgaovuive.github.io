@@ -4,7 +4,6 @@ title: "Hôm nay mình bắt đầu viết blog rồi nè!"
 date: 2025-07-06 15:00:00
 last_modified_at: 2025-07-07 22:30:00
 categories: [life, writing]  
-tags: [toán học, người truyền cảm hứng]
 ---
 
 Hôm nay mình bắt đầu viết blog rồi nè!
