@@ -2,8 +2,6 @@
 layout: post
 title: Một lời tạm biệt nhỏ và một chút tổn thương
 subtitle: Không phải vì mình yêu thích gì môn Toán đâu :v mà vì mình nhạy cảm
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 date: 2025-08-03 20:00:00
 last_modified_at: 2025-08-03 23:00:00
 categories: [Math, Whispers]
